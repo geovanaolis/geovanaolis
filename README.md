@@ -15,7 +15,7 @@
     [**Dasa**](https://www.dasa.com.br/) • 2022/Mar - Atualmente \
     `HTML`, `CSS`, `Angular`, `NodeJS`, `C#`, `Javascript`, \
     `Typescript`, `MySQL `, `Bootstrap `, `Entity Framework (EF) Core `, \
-    `.NET Core`, `Docker `, `Azure DevOps `, `Azure Cosmos DB `, `Postman API ` \ 
+    `.NET Core`, `Docker `, `Azure DevOps `, `Azure Cosmos DB `, `Postman API `  
     </br>
 
 - 🎓 Estudou 
