@@ -1,6 +1,6 @@
 ### Olá, sou a Geovana!
   - 22y | Belo Horizonte, MG, Brazil 📍
-  - Ravenclaw claro! 💙
+  - Ravenclaw claro! 💙 (Pouquinho de Lufa-lufa tbm >>>)
   - Gosto de jogar RPG, jogos de plataforma, indie e um pouquinho de FPS e MOBA (Porque sou ruim mesmo) 🕹
   - Apaixonada pela comida japonesa e pela Laninha! (Lana Del Rey) ♥
   - Front-end developer, back-end developer ou full stack 🎯
@@ -12,10 +12,11 @@
     <br>
     [<img align="left" height="94px" width="94px" alt="Infracommerce" src="https://cdn-images-1.medium.com/max/1200/1*MzTSWLSuHbztPm7tqukHaw.png"/>](https://www.dasa.com.br/)
     **Full Stack Developer** \
-    [**Dasa**](https://www.dasa.com.br/) • 2022/Mar - Atualmente \
+    [**Dasa**](https://www.dasa.com.br/) • 2022/Mar - 2024/Jan \
     `HTML`, `CSS`, `Angular`, `NodeJS`, `C#`, `Javascript`, \
     `Typescript`, `MySQL `, `Bootstrap `, `Entity Framework (EF) Core `, \
-    `.NET Core`, `Docker `, `Azure DevOps `, `Azure Cosmos DB `, `Postman API `  
+    `.NET Core`, `Docker `, `Azure DevOps `, `Azure Cosmos DB `, `Postman API ` \
+    `Service Bus`, `.NET Framework`, `React`, `SQL`, `AWS`, `SASS` \
     </br>
 
 - 🎓 Estudou 
@@ -23,15 +24,16 @@
     [<img align="left" height="94px" width="94px" alt="Infracommerce" src="https://user-images.githubusercontent.com/73656973/135145144-b8572a6c-b44e-4337-9b83-bde7f21b9327.png"/>](https://www.labenu.com.br/)
     **Full Stack Developer Student** \
     [**Labenu**](https://www.labenu.com.br/) • 2022/Mar - 2022/Set \
-    `HTML`, `CSS`, `ReactJS`, `NodeJS`, `Jest`, `Javascript`, \
-    `Typescript`, `ExpressJs`, `NextJs`, `AWS`, `MySQL ` \
+    `HTML`, `CSS`, `React`, `NodeJS`, `Jest`, `Javascript`, \
+    `Typescript`, `ExpressJs`, `NextJs`, `AWS`, `SQL ` \
+    `Jest`, `Firebase`, `Testes de API`, `GIT`, `SASS` \
     <br/>
     
-- 🔍 Estudando 
+- 🎓 Estudou 
     <br>
     [<img align="left" height="94px" width="94px" alt="Infracommerce" src="https://avatars.githubusercontent.com/u/4975968?s=280&v=4"/>](https://www.alura.com.br/)
     **Full Stack Developer Student** \
-    [**Alura**](https://www.alura.com.br/) • 2022/Set - Atualmente \
+    [**Alura**](https://www.alura.com.br/) • 2022/Set - 2022/Out \
     `C#`, `Angular ` \
     <br/>
 
@@ -42,24 +44,6 @@
   <img height="120em" src="https://github-readme-stats.vercel.app/api?username=geovanaolis&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
   <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geovanaolis&layout=compact&langs_count=7&theme=merko"/>
   <img align="right" alt="geo-pic" height="125" style="border-radius:50px;" src="https://user-images.githubusercontent.com/97990410/187721678-e407c634-f413-48c4-ac42-893a844ba832.png">
-</div>
-<div style="display: inline_block"><br>
-  <p> Tecnologias que eu conheço e/ou estou praticando: </p>
-  <img align="center" alt="html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg">
-  <img align="center" alt="css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg">
-  <img align="center" alt="javascript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img align="center" alt="typescript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="react" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-  <img align="center" alt="angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg">
-  <img align="center" alt="mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-  <img align="center" alt="nodejs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="c-sharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg">
-  <img align="center" alt="jest" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg">
-  <img align="center" alt="firebase" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg">
-  <img align="center" alt="nextjs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg">
-  <img align="center" alt="express" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg">
-  <img align="center" alt="adobe-photoshop" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg">
-  <img align="center" alt="adobe-illustrator" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg">
 </div>
   
 ###
