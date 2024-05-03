@@ -1,5 +1,5 @@
 ### Olá, sou a Geovana!
-  - 22y | Belo Horizonte, MG, Brazil 📍
+  - 23y | Belo Horizonte, MG, Brazil 📍
   - Ravenclaw claro! 💙 (Pouquinho de Lufa-lufa tbm >>>)
   - Gosto de jogar RPG, jogos de plataforma, indie e um pouquinho de FPS e MOBA (Porque sou ruim mesmo) 🕹
   - Apaixonada pela comida japonesa e pela Laninha! (Lana Del Rey) ♥
