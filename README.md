@@ -22,7 +22,7 @@
 - 🎓 Estudou 
     <br>
     [<img align="left" height="94px" width="94px" alt="Infracommerce" src="https://user-images.githubusercontent.com/73656973/135145144-b8572a6c-b44e-4337-9b83-bde7f21b9327.png"/>](https://www.labenu.com.br/)
-    **Full Stack Developer Student** \
+    **Full Stack Development** \
     [**Labenu**](https://www.labenu.com.br/) • 2022/Mar - 2022/Set \
     `HTML`, `CSS`, `React`, `NodeJS`, `Jest`, `Javascript`, \
     `Typescript`, `ExpressJs`, `NextJs`, `AWS`, `SQL ` \
@@ -32,7 +32,7 @@
 - 🎓 Estudou 
     <br>
     [<img align="left" height="94px" width="94px" alt="Infracommerce" src="https://avatars.githubusercontent.com/u/4975968?s=280&v=4"/>](https://www.alura.com.br/)
-    **Full Stack Developer Student** \
+    **C# e Angular** \
     [**Alura**](https://www.alura.com.br/) • 2022/Set - 2022/Out \
     `C#`, `Angular ` \
     <br/>
