@@ -32,9 +32,9 @@
 - 🎓 Estudou 
     <br>
     [<img align="left" height="94px" width="94px" alt="Infracommerce" src="https://avatars.githubusercontent.com/u/4975968?s=280&v=4"/>](https://www.alura.com.br/)
-    **C# e Angular** \
+    **C#, Angular e IA** \
     [**Alura**](https://www.alura.com.br/) • 2022/Set - 2022/Out \
-    `C#`, `Angular ` \
+    `C#`, `Angular `, `Python `, `IA `, `ChatBot ` \
     <br/>
 
 ###
