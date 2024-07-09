@@ -8,9 +8,19 @@
 
 ##
 
+- 💼 Software Engineer II
+    <br>
+    [<img align="left" height="94px" width="94px" alt="Stone Logo" src="https://media.licdn.com/dms/image/C4D0BAQGT_-yf7Xw9dw/company-logo_200_200/0/1673960541253?e=2147483647&v=beta&t=idyo8PNioSkSGcA4FvSe9DjhQH-q_W5fVnuydFsFl-A"/>](https://www.linkedin.com/company/stone-co/?originalSubdomain=br)
+    **Front End Developer** \
+    [**Stone**](https://www.dasa.com.br/) • 2024/Ago - Atualmente \
+    `HTML`, `CSS`, `React`, `NodeJS`, `Jest`, `Javascript`, \
+    `Typescript`, `ExpressJs`, `NextJs`, `AWS`, `SQL ` \
+    `Jest`, `Firebase`, `Testes de API`, `GIT`, `SASS` \
+    </br>
+
 - 💼 Assistente de tecnologia
     <br>
-    [<img align="left" height="94px" width="94px" alt="Infracommerce" src="https://cdn-images-1.medium.com/max/1200/1*MzTSWLSuHbztPm7tqukHaw.png"/>](https://www.dasa.com.br/)
+    [<img align="left" height="94px" width="94px" alt="Dasa Logo" src="https://cdn-images-1.medium.com/max/1200/1*MzTSWLSuHbztPm7tqukHaw.png"/>](https://www.dasa.com.br/)
     **Full Stack Developer** \
     [**Dasa**](https://www.dasa.com.br/) • 2022/Mar - 2024/Jan \
     `HTML`, `CSS`, `Angular`, `NodeJS`, `C#`, `Javascript`, \
@@ -21,7 +31,7 @@
 
 - 🎓 Estudou 
     <br>
-    [<img align="left" height="94px" width="94px" alt="Infracommerce" src="https://user-images.githubusercontent.com/73656973/135145144-b8572a6c-b44e-4337-9b83-bde7f21b9327.png"/>](https://www.labenu.com.br/)
+    [<img align="left" height="94px" width="94px" alt="Labenu Logo" src="https://user-images.githubusercontent.com/73656973/135145144-b8572a6c-b44e-4337-9b83-bde7f21b9327.png"/>](https://www.labenu.com.br/)
     **Full Stack Development** \
     [**Labenu**](https://www.labenu.com.br/) • 2022/Mar - 2022/Set \
     `HTML`, `CSS`, `React`, `NodeJS`, `Jest`, `Javascript`, \
@@ -31,7 +41,7 @@
     
 - 🎓 Estudou 
     <br>
-    [<img align="left" height="94px" width="94px" alt="Infracommerce" src="https://avatars.githubusercontent.com/u/4975968?s=280&v=4"/>](https://www.alura.com.br/)
+    [<img align="left" height="94px" width="94px" alt="Alura Logo" src="https://avatars.githubusercontent.com/u/4975968?s=280&v=4"/>](https://www.alura.com.br/)
     **C#, Angular e IA** \
     [**Alura**](https://www.alura.com.br/) • 2022/Set - 2022/Out \
     `C#`, `Angular `, `Python `, `IA `, `ChatBot ` \
