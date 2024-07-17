@@ -10,9 +10,9 @@
 
 - 💼 Software Engineer II
     <br>
-    [<img align="left" height="94px" width="94px" alt="Stone Logo" src="https://media.licdn.com/dms/image/C4D0BAQGT_-yf7Xw9dw/company-logo_200_200/0/1673960541253?e=2147483647&v=beta&t=idyo8PNioSkSGcA4FvSe9DjhQH-q_W5fVnuydFsFl-A"/>](https://www.linkedin.com/company/stone-co/?originalSubdomain=br)
+    [<img align="left" height="94px" width="94px" alt="Stone Logo" src="https://media.licdn.com/dms/image/C4D0BAQGT_-yf7Xw9dw/company-logo_200_200/0/1673960541253?e=2147483647&v=beta&t=idyo8PNioSkSGcA4FvSe9DjhQH-q_W5fVnuydFsFl-A"/>](https://www.stone.com.br)
     **Front End Developer** \
-    [**Stone**](https://www.dasa.com.br/) • 2024/Ago - Atualmente \
+    [**Stone**](https://www.stone.com.br) • 2024/Ago - Atualmente \
     `HTML`, `CSS`, `React`, `NodeJS`, `Jest`, `Javascript`, \
     `Typescript`, `ExpressJs`, `NextJs`, `AWS`, `SQL ` \
     `Jest`, `Firebase`, `Testes de API`, `GIT`, `SASS` \
