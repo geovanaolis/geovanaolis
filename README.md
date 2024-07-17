@@ -47,6 +47,15 @@
     `C#`, `Angular `, `Python `, `IA `, `ChatBot ` \
     <br/>
 
+    - 🎓 Estudou 
+    <br>
+    [<img align="left" height="94px" width="94px" alt="Alura Logo" src="https://github.com/user-attachments/assets/7f0e7d71-61f5-4edb-89ca-fd2c9b4023e8"/>](https://app.rocketseat.com.br)
+    **React Native** \
+    [**Rocketseat**](https://app.rocketseat.com.br) • 2024/Jul \
+    `Tailwind CSS`, `Expo Framework `, `Expo Router `, `React Native `, `HTML ` \
+    `CSS `, `Javascript `, `Typescript `, `RNative Wind `, `NodeJS ` , `Picker `\
+    <br/>
+
 ###
 
 <div align="center">
