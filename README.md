@@ -29,8 +29,6 @@
     `.NET Core`, `Docker `, `Azure DevOps `, `Azure Cosmos DB `, `Postman API ` \
     `Service Bus`, `.NET Framework`, `React`, `SQL`, `AWS`, `SASS` \
     </br>
-    
-##
 
 # Educação | Education
 - 🎓 Full Stack Web Development Bootcamp - Labenu
@@ -51,7 +49,7 @@
     `C#`, `.NET`, `Angular `, `Typescript`, `SASS`, `Python`, `AI`, `ChatBot` \
     <br/>
     
-    - 🎓 AI Bootcamp - WoMakersCode 
+- 🎓 AI Bootcamp - WoMakersCode 
     <br>
     [<img align="left" height="94px" width="94px" alt="WoMakersCode Logo" src="https://media.licdn.com/dms/image/C4E0BAQH5SFRe58OpRg/company-logo_200_200/0/1654722228986/womakerscode_logo?e=2147483647&v=beta&t=0Vffw7gUsI1Df7gAdV_mfF2-6ZcFdqC3p2sr6yydpwI"/>](https://womakerscode.org)
     **Artificial Intelligence and Machine Learning** \
