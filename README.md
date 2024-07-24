@@ -29,6 +29,8 @@
     `.NET Core`, `Docker `, `Azure DevOps `, `Azure Cosmos DB `, `Postman API ` \
     `Service Bus`, `.NET Framework`, `React`, `SQL`, `AWS`, `SASS` \
     </br>
+    
+##
 
 # Educação | Education
 - 🎓 Full Stack Web Development Bootcamp - Labenu
@@ -48,7 +50,7 @@
     [**Alura**](https://www.alura.com.br/) • 2022/Set - 2022/Out \
     `C#`, `.NET`, `Angular `, `Typescript`, `SASS`, `Python`, `AI`, `ChatBot` \
     <br/>
-
+    
     - 🎓 AI Bootcamp - WoMakersCode 
     <br>
     [<img align="left" height="94px" width="94px" alt="WoMakersCode Logo" src="https://media.licdn.com/dms/image/C4E0BAQH5SFRe58OpRg/company-logo_200_200/0/1654722228986/womakerscode_logo?e=2147483647&v=beta&t=0Vffw7gUsI1Df7gAdV_mfF2-6ZcFdqC3p2sr6yydpwI"/>](https://womakerscode.org)
@@ -57,7 +59,7 @@
     `Machine Learning`, `Responsible AI`, `AI900`, `Microsoft Azure Machine Learning` \
     `Computer vision`, `Generative AI` \
     <br/>
-
+    
 - 🎓 NLW Journey Certificate - Rocketseat 
     <br>
     [<img align="left" height="94px" width="94px" alt="Rocketseat Logo" src="https://github.com/user-attachments/assets/7f0e7d71-61f5-4edb-89ca-fd2c9b4023e8"/>](https://app.rocketseat.com.br)
