@@ -6,7 +6,7 @@
   - Front-end, back-end or full stack 🎯
   - <strong> Curiosity: </strong> I am moderately bilateral sensorineural hearing impaired, I was born this way and have been using hearing aids since I was 7 years old.
 
-##
+###
 
 # Experiência Profissional | Work Experience
 - 💼 Software Engineer II
