@@ -69,16 +69,6 @@
 
 ###
 
-## Linguagens de programação | Programming languages
-<div>
-  <a target="_blank"><img src="https://github.com/user-attachments/assets/fee75d11-742d-42a0-ada9-ad2733004fa8" target="_blank"></a>
-  <a target="_blank"><img src="https://github.com/user-attachments/assets/34fb8a28-49fc-45e1-9461-862bedf2d047" target="_blank"></a>
-  <a target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-  <a target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-</div>
-
-###
-
 <div align="center">
   <a href="https://github.com/geovanaolis">
   <img height="120em" src="https://github-readme-stats.vercel.app/api?username=geovanaolis&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
