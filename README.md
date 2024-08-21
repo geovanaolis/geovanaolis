@@ -14,7 +14,7 @@
     [<img align="left" height="94px" width="94px" alt="Stone Logo" src="https://media.licdn.com/dms/image/C4D0BAQGT_-yf7Xw9dw/company-logo_200_200/0/1673960541253?e=2147483647&v=beta&t=idyo8PNioSkSGcA4FvSe9DjhQH-q_W5fVnuydFsFl-A"/>](https://www.stone.com.br)
     **Front End Developer** \
     [**Stone**](https://www.stone.com.br) • 2024/Ago - Atualmente | Currently \
-    `HTML`, `CSS`, `React`, `NodeJS`, `Jest`, `Javascript`, \
+    `HTML`, `CSS`, `React`, `NodeJS`, `Javascript`, \
     `Typescript`, `ExpressJs`, `NextJs`, `AWS`, `SQL ` \
     `Jest`, `Firebase`, `Testes de API`, `GIT`, `SASS` \
     </br>
@@ -36,7 +36,7 @@
     [<img align="left" height="94px" width="94px" alt="Labenu Logo" src="https://user-images.githubusercontent.com/73656973/135145144-b8572a6c-b44e-4337-9b83-bde7f21b9327.png"/>](https://www.labenu.com.br/)
     **Full Stack Development** \
     [**Labenu**](https://www.labenu.com.br/) • 2022/Mar - 2022/Set \
-    `HTML`, `CSS`, `React`, `NodeJS`, `Jest`, `Javascript`, \
+    `HTML`, `CSS`, `React`, `NodeJS`, `Javascript`, \
     `Typescript`, `ExpressJs`, `NextJs`, `AWS`, `SQL ` \
     `Jest`, `Firebase`, `Testes de API`, `GIT`, `SASS` \
     <br/>
@@ -64,7 +64,7 @@
     **React Native** \
     [**Rocketseat**](https://app.rocketseat.com.br) • 2024/Jul \
     `Tailwind CSS`, `Expo Framework`, `Expo Router`, `React Native`, `HTML` \
-    `CSS`, `Javascript`, `Typescript`, `RNative Wind`, `NodeJS` , `Picker`\
+    `CSS`, `Javascript`, `Typescript`, `Native Wind`, `NodeJS` , `Picker`\
     <br/>
 
 ###
