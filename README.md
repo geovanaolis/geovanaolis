@@ -3,7 +3,7 @@
   - Ravenclaw of course! 💙 (A little bit of Hufflepuff too >>>)
   - I like playing RPG, platform games, indie games and a little bit of FPS and MOBA (Because I'm really bad) 🕹
   - In love with Japanese food and Rock! ♥
-  - Front-end, back-end or full stack 🎯
+  - Full-stack FE-Heavy 🎯
   - <strong> Curiosity: </strong> I am moderately bilateral sensorineural hearing impaired, I was born this way and have been using hearing aids since I was 7 years old.
 
 ###
