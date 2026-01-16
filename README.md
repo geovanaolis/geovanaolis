@@ -1,86 +1,83 @@
 ### Olá, sou a Geovana! | Hi, I'm Geovana!
-  - 23y | Belo Horizonte, MG, Brazil 📍
-  - Ravenclaw of course! 💙 (A little bit of Hufflepuff too >>>)
-  - I like playing RPG, platform games, indie games and a little bit of FPS and MOBA (Because I'm really bad) 🕹
-  - In love with Japanese food and Rock! ♥
-  - Full-stack FE-Heavy 🎯
-  - <strong> Curiosity: </strong> I am moderately bilateral sensorineural hearing impaired, I was born this way and have been using hearing aids since I was 7 years old.
+24y | Belo Horizonte, MG, Brazil 📍
+
+[pt-br]
+Desenvolvedora Full-stack FE-Heavy com paixão por criar interfaces intuitivas e experiências digitais. Desde como full stack e, atualmente, como desenvolvimento web front-end e UX/UI Design, estou sempre buscando aprender e experimentar novas ferramentas que trazem a melhor jornada do usuário com usabilidade, acessibilidade e qualidade!
+
+[en-us]
+Full-stack FE-Heavy developer with a passion for creating intuitive interfaces and digital experiences. From my time as a full-stack developer to my current role as a front-end web developer and UX/UI designer, I am always looking to learn and experiment with new tools that deliver the best user journey through usability, accessibility, and quality!
 
 ###
 
 # Experiência Profissional | Work Experience
-- 💼 Software Engineer II
+- 💼 Software Engineer II - Credit (Jr) | Stone&co
+- Stack: Front-end Web
+  <br>
+  - Aplicação de acessibilidade em fluxos críticos de ponta a ponta, identificando barreiras e promovendo iniciativas de conscientização junto a outros times e chapters, por meio de apresentações técnicas e disseminação de boas práticas, contribuindo para decisões mais inclusivas além do produto de crédito.
+  - Colaboração ativa na otimização de fluxos com foco em UX/UI, participando de handoffs com design e da evolução do Design System, garantindo consistência visual, usabilidade e alinhamento entre design e implementação.
+  - Participação na evolução da arquitetura do sistema com adoção de arquitetura modular, melhorando a organização do código, a manutenção e o entendimento do domínio por outros times.
+  - Desenvolvimento e integração de APIs REST modernas, incluindo BFFs, garantindo melhor comunicação entre front-end e back-end e maior eficiência nos fluxos de dados.
+  - Atuação na investigação e resolução de incidentes e chamados em ambientes admin, sandbox e produção, utilizando logs e ferramentas de observabilidade para identificação de causas raiz e mitigação de impactos, e claro, quando a resolução não é pertinente, faço correto direcionamento das demandas para os times e responsáveis adequados, contribuindo para agilidade na resolução dos problemas e melhor comunicação entre áreas técnicas.
+  - Trabalho em ambiente ágil, com forte cultura de documentação, melhoria contínua e gestão de dívidas técnicas.
+  </br>
+
+- 💼 Technology Assistant - Integrated Care | DASA
+- Stack: Full Stack
     <br>
-    [<img align="left" height="94px" width="94px" alt="Stone Logo" src="https://media.licdn.com/dms/image/C4D0BAQGT_-yf7Xw9dw/company-logo_200_200/0/1673960541253?e=2147483647&v=beta&t=idyo8PNioSkSGcA4FvSe9DjhQH-q_W5fVnuydFsFl-A"/>](https://www.stone.com.br)
-    **Front End Developer** \
-    [**Stone**](https://www.stone.com.br) • 2024/Ago - Atualmente | Currently \
-    `HTML`, `CSS`, `React`, `NodeJS`, `Javascript`, \
-    `Typescript`, `ExpressJs`, `NextJs`, `AWS`, `SQL ` \
-    `Jest`, `Firebase`, `Testes de API`, `GIT`, `SASS` \
+  - Atuação no suporte e evolução do sistema de Cuidados Integrados e NAV em diferentes ambientes (admin, desenvolvimento e produção), contribuindo para maior estabilidade e qualidade da experiência do usuário.
+  - Participação em correções de bugs e resolução de dívidas técnicas, apoiando a manutenção do sistema e a evolução contínua do produto.
+  - Atuação na investigação de chamados e incidentes, utilizando logs, telemetria e ferramentas de monitoramento para identificação de falhas, análise de impacto e correto direcionamento das demandas para os times e responsáveis adequados, contribuindo para agilidade na resolução dos problemas e melhor comunicação entre áreas técnicas.
     </br>
 
-- 💼 Technology Assistant
-    <br>
-    [<img align="left" height="94px" width="94px" alt="Dasa Logo" src="https://cdn-images-1.medium.com/max/1200/1*MzTSWLSuHbztPm7tqukHaw.png"/>](https://www.dasa.com.br/)
-    **Full Stack FE-Heavy Developer** \
-    [**Dasa**](https://www.dasa.com.br/) • 2022/Mar - 2024/Jan \
-    `HTML`, `CSS`, `Angular`, `NodeJS`, `C#`, `Javascript`, \
-    `Typescript`, `MySQL `, `Bootstrap `, `Entity Framework (EF) Core `, \
-    `.NET Core`, `Docker `, `Azure DevOps `, `Azure Cosmos DB `, `Postman API ` \
-    `Service Bus`, `.NET Framework`, `React`, `SQL`, `AWS`, `SASS` \
-    </br>
+# Stack
 
-# Educação | Education
-- 🎓 Full Stack Web Development Bootcamp - Labenu
-    <br>
-    [<img align="left" height="94px" width="94px" alt="Labenu Logo" src="https://user-images.githubusercontent.com/73656973/135145144-b8572a6c-b44e-4337-9b83-bde7f21b9327.png"/>](https://www.labenu.com.br/)
-    **Full Stack Development** \
-    [**Labenu**](https://www.labenu.com.br/) • 2022/Mar - 2022/Set \
-    `HTML`, `CSS`, `React`, `NodeJS`, `Javascript`, \
-    `Typescript`, `ExpressJs`, `NextJs`, `AWS`, `SQL ` \
-    `Jest`, `Firebase`, `Testes de API`, `GIT`, `SASS` \
-    <br/>
-    
-- 🎓 C#, Angular and AI Certificate - Alura
-    <br>
-    [<img align="left" height="94px" width="94px" alt="Alura Logo" src="https://avatars.githubusercontent.com/u/4975968?s=280&v=4"/>](https://www.alura.com.br/)
-    **C#, Angular and AI** \
-    [**Alura**](https://www.alura.com.br/) • 2022/Set - 2022/Out \
-    `C#`, `.NET`, `Angular `, `Typescript`, `SASS`, `Python`, `AI`, `ChatBot` \
-    <br/>
-    
-- 🎓 AI Bootcamp - WoMakersCode 
-    <br>
-    [<img align="left" height="94px" width="94px" alt="WoMakersCode Logo" src="https://media.licdn.com/dms/image/C4E0BAQH5SFRe58OpRg/company-logo_200_200/0/1654722228986/womakerscode_logo?e=2147483647&v=beta&t=0Vffw7gUsI1Df7gAdV_mfF2-6ZcFdqC3p2sr6yydpwI"/>](https://womakerscode.org)
-    **Artificial Intelligence and Machine Learning** \
-    [**WoMakersCode**](https://womakerscode.org) • 2024/Jul \
-    `Machine Learning`, `Responsible AI`, `AI900`, `Microsoft Azure Machine Learning` \
-    `Computer vision`, `Generative AI` \
-    <br/>
-    
-- 🎓 NLW Journey Certificate - Rocketseat 
-    <br>
-    [<img align="left" height="94px" width="94px" alt="Rocketseat Logo" src="https://github.com/user-attachments/assets/7f0e7d71-61f5-4edb-89ca-fd2c9b4023e8"/>](https://app.rocketseat.com.br)
-    **React Native** \
-    [**Rocketseat**](https://app.rocketseat.com.br) • 2024/Jul \
-    `Tailwind CSS`, `Expo Framework`, `Expo Router`, `React Native`, `HTML` \
-    `CSS`, `Javascript`, `Typescript`, `Native Wind`, `NodeJS` , `Picker`\
-    <br/>
+- Front-end Web & Mobile
+<p>
+<img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge" target="_blank">
+<img src="https://img.shields.io/badge/-React_Native-05122A?style=for-the-badge&logo=react&logoColor=white" target="_blank">
+<img src="https://img.shields.io/badge/angular.js-DD0031?style=for-the-badge&logo=angular&logoColor=white" target="_blank">
+<img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" target="_blank">
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" target="_blank">
+<img src="https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white" target="_blank">
+<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" target="_blank">
+</p>
 
-###
+- Back-end
+<p>
+<img src="https://img.shields.io/badge/c%23-239120?style=for-the-badge&logo=dotnet&logoColor=white" target="_blank">
+<img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" target="_blank">
+<img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white" target="_blank">
+<img src="https://img.shields.io/badge/nest.js-blue?style=for-the-badge&logo=Postgresql&logoColor=white" target="_blank">
+<img src="https://img.shields.io/badge/express.js-000000?style=for-the-badge&logo=express&logoColor=white" target="_blank">
+</p>
 
-<div align="center">
-  <a href="https://github.com/geovanaolis">
-  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=geovanaolis&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geovanaolis&layout=compact&langs_count=7&theme=merko"/>
-  <img align="right" alt="geo-pic" height="125" style="border-radius:50px;" src="https://user-images.githubusercontent.com/97990410/187721678-e407c634-f413-48c4-ac42-893a844ba832.png">
-</div>
+- Data
+<p>
+<img src="https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white" target="_blank">
+<img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&labelColor=black&logoColor=white" target="_blank">
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" target="_blank">
+</p>
+
+- Tests
+<p>
+<img src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white" target="_blank">
+<img src="https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e" target="_blank">
+</p>
+
+- Monitoring & Cloud
+<p>
+<img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" target="_blank">
+<img src="https://img.shields.io/badge/Grafana-F2F4F9?style=for-the-badge&logo=grafana&logoColor=orange&labelColor=F2F4F9" target="_blank">
+<img src="https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white" target="_blank">
+<img src="https://img.shields.io/badge/Microsoft_Azure-black?style=for-the-badge&colorA=white&logoColor=0078D4&logo=microsoftazure" target="_blank">
+<img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=Google%20Cloud&logoColor=white" target="_blank">
+</p>
+
   
 ###
-  
+
+# CV & Portfolio
 <div> 
-  <p> Redes Sociais | Social Media: </p>
- 	<a href="https://www.twitch.tv/quironixx" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/geovanaoliveria/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://twitter.com/geovananix" target"_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
+  <a href="https://www.behance.net/geovanaosdesign" target="_blank"><img src="https://img.shields.io/badge/-Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white" target="_blank"></a>
 </div>
