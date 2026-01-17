@@ -31,8 +31,18 @@ Full-stack FE-Heavy developer with a passion for creating intuitive interfaces a
 
 # Stack
 
-- Front-end Web & Mobile
+- Front-end Web & Mobile | Design
 <p>
+<img src="https://img.shields.io/badge/CorelDraw-00AE0C?logo=coreldraw&logoColor=fff&style=for-the-badge" target="_blank">
+<img src="https://img.shields.io/badge/Adobe%20Photoshop-001e36?logo=adobephotoshop&logoColor=fff&style=for-the-badge" target="_blank">
+<img src="https://img.shields.io/badge/Adobe%20InDesign-E10098?logo=adobeindesign&logoColor=fff&style=for-the-badge" target="_blank">
+<img src="https://img.shields.io/badge/Adobe%20Illustrator-330000?logo=adobeillustrator&logoColor=fff&style=for-the-badge" target="_blank">
+<img src="https://img.shields.io/badge/Adobe%20Fireworks-EBDA3D?logo=adobefireworks&logoColor=fff&style=for-the-badge" target="_blank">
+<img src="https://img.shields.io/badge/Adobe%20Dreamweaver-007608?logo=adobedreamweaver&logoColor=fff&style=for-the-badge" target="_blank">
+<img src="https://img.shields.io/badge/Adobe%20Flash%20Animation-EB1300?logo=adobeflashanimation&logoColor=fff&style=for-the-badge" target="_blank">
+<img src="https://img.shields.io/badge/Adobe%20Premiere-93048E?logo=adobepremiere&logoColor=fff&style=for-the-badge" target="_blank">
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" target="_blank">
+<img src="https://img.shields.io/badge/Tailwind_CSS-grey?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC" target="_blank">
 <img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge" target="_blank">
 <img src="https://img.shields.io/badge/-React_Native-05122A?style=for-the-badge&logo=react&logoColor=white" target="_blank">
 <img src="https://img.shields.io/badge/angular.js-DD0031?style=for-the-badge&logo=angular&logoColor=white" target="_blank">
@@ -47,14 +57,14 @@ Full-stack FE-Heavy developer with a passion for creating intuitive interfaces a
 <img src="https://img.shields.io/badge/c%23-239120?style=for-the-badge&logo=dotnet&logoColor=white" target="_blank">
 <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" target="_blank">
 <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white" target="_blank">
-<img src="https://img.shields.io/badge/nest.js-blue?style=for-the-badge&logo=Postgresql&logoColor=white" target="_blank">
+<img src="https://img.shields.io/badge/nest.js-blue?style=for-the-badge&logo=nestjs&logoColor=white" target="_blank">
 <img src="https://img.shields.io/badge/express.js-000000?style=for-the-badge&logo=express&logoColor=white" target="_blank">
 </p>
 
 - Data
 <p>
 <img src="https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white" target="_blank">
-<img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&labelColor=black&logoColor=white" target="_blank">
+<img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sql&labelColor=black&logoColor=white" target="_blank">
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" target="_blank">
 </p>
 
@@ -69,7 +79,7 @@ Full-stack FE-Heavy developer with a passion for creating intuitive interfaces a
 <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" target="_blank">
 <img src="https://img.shields.io/badge/Grafana-F2F4F9?style=for-the-badge&logo=grafana&logoColor=orange&labelColor=F2F4F9" target="_blank">
 <img src="https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white" target="_blank">
-<img src="https://img.shields.io/badge/Microsoft_Azure-black?style=for-the-badge&colorA=white&logoColor=0078D4&logo=microsoftazure" target="_blank">
+<img src="https://img.shields.io/badge/Microsoft_Azure-black?style=for-the-badge&logo=Microsoft%20Azure&colorA=white&logoColor=0078D4" target="_blank">
 <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=Google%20Cloud&logoColor=white" target="_blank">
 </p>
 
